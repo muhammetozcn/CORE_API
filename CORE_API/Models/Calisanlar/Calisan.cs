@@ -10,7 +10,7 @@ namespace CORE_API.Models
         public int CalisanId { get; set; }
         public string Telefon { get; set; }
         public DateTime GirisTarih { get; set; } //İşe giriş tarihi
-        public double Maas { get; set; }
+        public int Maas { get; set; }
         public string Departman { get; set; }
         public string Unvan { get; set; }
         public string Yoneticisi { get; set; }

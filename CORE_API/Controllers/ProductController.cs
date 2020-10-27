@@ -16,8 +16,9 @@ namespace CORE_API.Controllers
         {
             return "merhaba";
         }
-                                                                                                             
 
-    
 
+
+
+    }
 }

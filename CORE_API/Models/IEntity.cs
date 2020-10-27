@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace CORE_API.Models
 {
-    interface IEntity
+    public interface IEntity
     {
     }
 }
